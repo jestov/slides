@@ -6,7 +6,7 @@
 @import url(../../lib/font/source-sans-pro/source-sans-pro.css);
 @import url('https://rsms.me/inter/inter-ui.css');
 section.has-dark-background, section.has-dark-background h1, section.has-dark-background h2, section.has-dark-background h3, section.has-dark-background h4, section.has-dark-background h5, section.has-dark-background h6 {
-  color: #fff; }
+  color: #ddd; }
 
 /*********************************************
  * GLOBAL STYLES
@@ -76,7 +76,8 @@ body {
 .reveal p {
     margin: 20px 0;
     line-height: 1;
-    letter-spacing: -1px; text-align: left;}
+    letter-spacing: -1px; text-align: left;
+}
 
 /* Ensure certain elements are never larger than the slide itself */
 .reveal img,
